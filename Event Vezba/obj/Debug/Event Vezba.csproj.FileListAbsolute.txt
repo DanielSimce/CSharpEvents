@@ -1,0 +1,6 @@
+D:\Trening C#\Event Vezba\Event Vezba\bin\Debug\Event Vezba.exe.config
+D:\Trening C#\Event Vezba\Event Vezba\bin\Debug\Event Vezba.exe
+D:\Trening C#\Event Vezba\Event Vezba\bin\Debug\Event Vezba.pdb
+D:\Trening C#\Event Vezba\Event Vezba\obj\Debug\Event Vezba.csprojAssemblyReference.cache
+D:\Trening C#\Event Vezba\Event Vezba\obj\Debug\Event Vezba.exe
+D:\Trening C#\Event Vezba\Event Vezba\obj\Debug\Event Vezba.pdb
